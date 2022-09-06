@@ -8,7 +8,8 @@
 <img src="finetuning-bert.png?raw=true"/>
 
 ---
-[Project 2 :Time_series_forecasting_AirPollution](/pdf/sample_presentation.pdf)
+[Project 2 :Time_series_forecasting_AirPollution](/sample_page)
+
 <img src="Air_pollution.jpg?raw=true"/>
 
 ---
